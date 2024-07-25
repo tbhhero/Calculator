@@ -44,8 +44,8 @@ This is a simple calculator app for Android developed in Kotlin. It supports bas
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.jpg)
-![Screenshot 2](screenshots/screenshot2.jpg)
+![Screenshot 1](screenshots/Screenshot 1.jpg)
+![Screenshot 2](screenshots/Screenshot 2.jpg)
 
 ## Contributing
 
