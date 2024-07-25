@@ -19,7 +19,7 @@ This is a simple calculator app for Android developed in Kotlin. It supports bas
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/simple-calculator.git
+    git clone [https://github.com/tbhhero/Calculator.git]
     ```
 
 2. **Open the project in Android Studio:**
@@ -44,8 +44,8 @@ This is a simple calculator app for Android developed in Kotlin. It supports bas
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.jpg)
+![Screenshot 2](screenshots/screenshot2.jpg)
 
 ## Contributing
 
