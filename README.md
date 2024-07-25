@@ -45,7 +45,7 @@ This is a simple calculator app for Android developed in Kotlin. It supports bas
 ## Screenshots
 
 ![Screenshot 1](screenshots/Screenshot_1.png)
-![Screenshot 2](tbhhero/Calculator/screenshots/Screenshot_2.png)
+![Screenshot 2](screenshots/Screenshot_2.png)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
