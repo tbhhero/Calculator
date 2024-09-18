@@ -54,6 +54,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+### Contact
 
 If you have any questions or feedback, please reach out to [tbhhero84@gmail.com](Author:Dhiraj Gupta).
